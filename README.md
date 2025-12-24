@@ -1,1 +1,1 @@
-# AI-ChatBot
+# Personal Styling AI-ChatBot
